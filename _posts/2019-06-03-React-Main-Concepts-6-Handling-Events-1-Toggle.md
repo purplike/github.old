@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "React - Main Concepts - 6. Handling Events - 1. Toggle"
-date: 2019-06-03 08:26:28 -0400
+date: 2019-06-03 15:00:00 -0000
 ---
 https://reactjs.org/docs/handling-events.html
 
+{% highlight react %}
 /*
 React - Main Concepts - 6. Handling Events - 1. Toggle
 https://ko.reactjs.org/docs/handling-events.html
@@ -40,4 +41,4 @@ class Toggle extends React.Component {
 }
 
 ReactDOM.render(<Toggle />, document.getElementById('root'));
-
+{% endhighlight %}
