@@ -1,3 +1,7 @@
+---
+title: "React - Main Concepts - 6. Handling Events - 2. LoggingButton 1"
+date: 2019-06-03 15:50:00 -0400
+---
 /*
  * React - Main Concepts - 6. Handling Events - 2. LoggingButton 1
  * https://reactjs.org/docs/handling-events.html
