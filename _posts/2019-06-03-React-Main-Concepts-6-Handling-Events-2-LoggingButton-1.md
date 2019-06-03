@@ -1,9 +1,8 @@
 /*
- * 
-  React - Main Concepts - 6. Handling Events - 2. LoggingButton 1
-  https://reactjs.org/docs/handling-events.html
-
+ * React - Main Concepts - 6. Handling Events - 2. LoggingButton 1
+ * https://reactjs.org/docs/handling-events.html
  */
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 
