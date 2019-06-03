@@ -16,8 +16,8 @@ class LoggingButton extends React.Component {
     
     // This synatx ensures `this` is bound within handleClick
     // Warning: this is *experimental* syntax.
-    // 이 문법은 `this`가 handleClick 내에서 바인딩 되도록 합니다.
-    // wndnl: 이 문법은 *실험적인* 문법입니다.
+    // 이 문법은 `this`가 handleClick 내에서 바인딩되도록 합니다.
+    // 주의: 이 문법은 *실험적인* 문법입니다.
     handleClick = () => {
         console.log('this is:', this);
     }
