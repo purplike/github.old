@@ -8,11 +8,12 @@ function helloWorld() {
     console.log('Hello World');
     helloNode();
 }
-{% endhighlight %}
+
 function helloNode() {
     console.log('Hello Node');
 }
 helloWorld();
+{% endhighlight %}
 
 >node helloWorld
 Hello World
