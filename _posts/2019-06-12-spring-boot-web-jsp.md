@@ -90,3 +90,9 @@ sts로그 STS Console
 2019-06-12 18:15:58.584  INFO 14560 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2019-06-12 18:15:58.591  INFO 14560 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
 2019-06-12 18:15:59.239  WARN 14560 --- [nio-8080-exec-1] o.a.c.util.SessionIdGeneratorBase        : Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [208] milliseconds.
+
+3. Stop
+
+2019-06-12 18:28:59.330  INFO 14560 --- [n(34)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2019-06-12 18:28:59.334  INFO 14560 --- [n(34)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+
