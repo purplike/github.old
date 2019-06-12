@@ -61,7 +61,7 @@ public class JspController {
 
 sts로그 STS Console
 1. Run
-
+{% highlight %}
   .   ____          _            __ _ _
   
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -83,7 +83,7 @@ sts로그 STS Console
 2019-06-12 18:13:53.664  INFO 14560 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
 2019-06-12 18:13:53.754  INFO 14560 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
 2019-06-12 18:13:53.758  INFO 14560 --- [           main] com.example.demo.JspApplication          : Started JspApplication in 1.713 seconds (JVM running for 2.684)
-
+{% endhighlight %}
 
 2. 웹브라우저에서 localhost:8080 하고 나면
 
