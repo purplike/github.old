@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring Boot Web JSP"
-date: 2019-06-12 3
+date: 2019-06-12
 ---
 완전간단스프링부트jsp
 simple spring boot + jsp
